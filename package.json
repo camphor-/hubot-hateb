@@ -1,7 +1,7 @@
 {
   "name": "hubot-hateb",
   "description": "A Hubot script for searching Hatena Bookmark",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Yusuke Miyazaki <miyazaki.dev@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
